@@ -27,7 +27,7 @@ marih:
   title: Founder of CodeOasis
   url: https://mari-hirota-portfolio.vercel.app/
   image_url: https://github.com/lallalamin.png
-  page: true
+  page: false
   socials:
     github: lallalamin
     linkedin: mari-hirota
